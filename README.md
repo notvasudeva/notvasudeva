@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan Vasudeva Chava</h1>
 <h3 align="center">Just a chill guy.</h3>
 
-- 🔭 I’m currently working on **AI Interview Coach.**
+- 🔭 I’m currently working on building an **AI Interview Coach.**
 
 - 🌱 I’m currently learning **about AI technologies.**
 
